@@ -1,7 +1,6 @@
 # WSP Practice
 
-This repository records my Wall Street Prep practice across Excel, financial modeling, buyouts, and other finance topics through daily learning notes and independently created work. Licensed course workbooks, instructions, screenshots, and solutions are not included.
-
+This repository records my Wall Street Prep practice across Excel, financial modeling, buyouts, and other finance topics through daily learning notes and independently created work. 
 <br>
 
 ## Practice Log
